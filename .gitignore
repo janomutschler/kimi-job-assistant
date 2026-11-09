@@ -24,6 +24,7 @@ htmlcov/
 *.tfvars
 !*.tfvars.example
 crash.log
+backend.hcl
 
 # Node / frontend
 node_modules/
