@@ -1,0 +1,2 @@
+bucket  = "kimi-tfstate-<ACCOUNT_ID>"
+profile = "kimi"

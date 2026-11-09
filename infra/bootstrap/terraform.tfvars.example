@@ -1,0 +1,5 @@
+# Copy to terraform.tfvars (git-ignored) and fill in.
+github_owner     = "janomutschler"
+github_repo      = "kimi-job-assistant"
+budget_email     = "you@example.com"
+budget_limit_usd = 20
